@@ -1,0 +1,13 @@
+f_setting,f_tolerance,c_setting,c_tolerance,spacing_UL_feet,spacing_ULC_feet,spacing_FM_feet,rti,color_coding,rti_response
+140,+7/-8,60,+4/-5,50,50,20,v-fast,black,99
+160,+7/-8,71,+4/-5,25,25,20,v-fast,black,99
+190,+7/-8,88,+4/-5,50,50,25,v-fast,white,148
+210,+7/-8,99,+4/-5,25,50,25,v-fast,white,148
+225,+7/-8,107,+4/-5,25,50,25,v-fast,white,148
+275,+-10,135,+-6,25,50,25,v-fast,blue,148
+325,+-10,163,+-6,50,50,25,v-fast,red,148
+360,+-10,182,+-8,25,50,30,v-fast,red,148
+450,+-15,232,+-10,25,50,30,v-fast,green,148
+500,+-15,260,+-10,50,50,30,v-fast,orange,148
+600,+-20,316,+-12,,50,30,v-fast,orange,148
+725,+-20,385,+-12,,50,30,v-fast,orange,148

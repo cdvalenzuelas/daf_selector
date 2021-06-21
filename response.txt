@@ -1,0 +1,29 @@
+
+    Dado que la temperatura máxima al interior del recinto es de 203.0 °F (95.0 °C), la temperatura mínima de seteo es de 303.0 °F (150.56 °C).
+    Lo anterior se deba a que la temeratura de seteo debe ser por lo menos 100 °F mayor a la temperatura máxima esperada. 
+    Además de lo anterior, se requiere que el detector cumpla con los requerimientos de de la NFPA 72 para ser un dispositivo
+    de activación, que la cabeza del dipositivo sea de tipo hexagonal (rosca simple) y que su cabeza sea de stainles steel.
+
+    Los detectores D.A.F no son sensibles a la posición. La denominación detector vertical u horizontal se refiere la la configuración más común de montaje de los detectores, es decir,
+    cada detector puede montarse tanto vertical como horizontalmente en función de los requerimientos de la aplicación. 
+
+    Dato todo lo dicho anteriormente ha seleccionado un detector con modelo 27121-20 con las siguientes características:
+
+    *Modelo: 27121-20
+    *Material de la cabeza: stainles steel
+    *Tipo de cabeza: hexagonal (rosca simple)
+    *Tipo de contacto: normally open (open on rise)
+    *Rating eléctrico: 5.0 Amps 125 VAC 0.5 Amps 125 VDC 2.0 Amps 24 VDC 1.0 Amps 48 VDC
+    *Temperatura de seteo: 325 °F (163 °C) 
+    *Tolerancia: +-10 °F (+-6 °C) 
+    *Espaciamiento UL: 50.0 ft
+    *Espaciamiento ULC: 50 ft
+    *Espaciamiento FM: 25  ft
+    *Espaciamiento RTI clasificado: 30x30 ft (9x9 m). Los espacios mostrados son distancias entre detectores en techos lisos, las distancias desde particiones o paredes serían la mitad de las mostradas. Se debe consultar a la autoridad competente (AHJ) antes de la instalación.
+    *RTI: 148 (ft*s)^0.5
+    *Clasificación RTI: (v-fast)
+    *Código de color: red     
+    *Clasificación de áreas: "Class I, Groups A, B, C and D; Class II, Groups E, F and G"
+    *Montaje: "Mount detector to a suitable listed fitting in accordance with National Electric Code and/or local authority having jurisdiction."
+    *Pedido: 27121-20 at 325 °F
+  
